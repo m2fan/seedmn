@@ -222,11 +222,19 @@ function create_config( )
     "leave_ban",
     "plugins"
     },
-    sudo_users = {138342554},--Sudo users
+    sudo_users = {131189448,146661928},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text =[[ 
-     SUDO Users @ADKING_BOTv3
+    about_text =[[ Fox v2 😊
+👥 Sudos: 
+👤 @Tofaniyam 
+👤 @teleadminfox 
+👥 Admins:
+👤 @kiarash_gh14
+And soon we will have a new director😱
+📢Channal: @foxchannal
+Have fun.....❤️
+]],
     ,
     help_text_realm = [[
 Realm Commands:
