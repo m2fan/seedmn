@@ -225,16 +225,7 @@ function create_config( )
     sudo_users = {131189448},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text =[[ Fox v2 😊
-👥 Sudos: 
-👤 @Tofaniyam 
-👤 @teleadminfox 
-👥 Admins:
-👤 @kiarash_gh14
-And soon we will have a new director😱
-📢Channal: @foxchannal
-Have fun.....❤️
-]],
+    about_text =[[ 
     ,
     help_text_realm = [[
 Realm Commands:
